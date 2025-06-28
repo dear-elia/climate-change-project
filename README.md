@@ -3,7 +3,7 @@
 This project aims to analyze key Arctic climate variables, such as atmospheric CO₂ concentration, sea ice extent and area, and global surface temperature changes, and build a predictive model to understand their relationships.
 
 ## Data Collection and Preparation 
-Data were collected from reliable sources such as NASA and NSIDC, including yearly and monthly measurements of CO₂ levels, sea ice extent/area in Arctic region, and surface temperature changes spanning from 1958 to 2023. The datasets were cleaned, relevant columns selected, and missing or incomplete data points (e.g., 1958 and partial years) were excluded to ensure data quality.
+Data were collected from reliable sources such as NASA and NSIDC, including yearly and monthly measurements of CO₂ levels, sea ice extent/area in Arctic region, and surface temperature changes spanning from 1885 to 2024. The datasets were cleaned, relevant columns selected, and missing or incomplete data points (e.g., 1958 and partial years) were excluded to ensure data quality.
 
 ## Data Analysis
 Correlation analysis was conducted using heatmaps and pairplot to visualize relationships between variables. This exploratory analysis revealed strong correlations, especially between CO₂ levels and temperature changes, supporting known climate science observations.
